@@ -1,0 +1,24 @@
+#titlespace{
+  background-color: #DCDCDC;
+  text-align: center;
+  padding: 50px;
+  border-radius: 25px;
+}
+
+#titlespacediv{
+  padding: 25px;
+}
+
+#maindiv{
+  
+}
+
+#citytitle{
+  text-align: center;
+  padding: 25px 0px 25px 0px;
+} 
+
+#divweatherposts{
+  padding: 0px 0px 0px 0px;
+  display: flex;
+}
